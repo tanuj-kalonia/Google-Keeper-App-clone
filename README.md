@@ -1,3 +1,9 @@
+# This is a clone of google keeper app and is created over react.js
+
+##  The app is published at https://tanuj3662.github.io/Google-Keeper-App-clone/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
